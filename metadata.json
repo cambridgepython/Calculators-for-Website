@@ -1,0 +1,5 @@
+{
+  "name": "Retirement Paycheck Calculator",
+  "description": "A sleek and modern calculator to determine the total number of paychecks you have left until your desired retirement age. Input your current age, target retirement age, and pay frequency to get an instant calculation.",
+  "requestFramePermissions": []
+}
